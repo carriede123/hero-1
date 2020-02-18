@@ -22,8 +22,7 @@ console.log(myThoughts);
 
 //add package for popular movies and displays it
 const Movie = require('popular-movie-quotes');
-var myMovie = Movie.getRandomQuote();
-console.log(myMovie); 
+var myMovie = 
 
 //copy above information to a file
 const fs = require("fs");
